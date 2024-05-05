@@ -12,6 +12,7 @@ the database automatically.
 is 123456, if your database password is not 123456, 
 please go to config/dbconfig.php file to modify the database password.
 define("PASS","root");change to define("PASS","");
+The front-end page is loaded by default. In the background access path, you can add /Admin to the background
     后台默认帐号：admin	
     后台默认密码：admin888
     
